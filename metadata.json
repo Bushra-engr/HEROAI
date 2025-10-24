@@ -1,0 +1,7 @@
+{
+  "name": "HEROAI",
+  "description": "A powerful suite of AI tools powered by Google Gemini. Generate and edit images, chat with an advanced AI, engage in real-time voice conversations, and solve complex problems with a dedicated thinking mode.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
